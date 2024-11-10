@@ -1,1 +1,2 @@
 archivo texto 4
+nueva línea texto
